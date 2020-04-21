@@ -1,0 +1,28 @@
+{
+  "Content1": [
+    {
+      "traySn": "Tray0001",
+      "sn": "",
+      "stationNo": "STA_SPI_01_01",
+      "machineSn": "EQP_SPI_01_01",
+      "siteId": "23",
+      "split": "N"
+    }
+  ],
+  "Content2": [
+    {
+      "name": "typicode",
+      "url": "/services/external/query/getSnInfo",
+      "code": "messpw.exception.code.A0052511",
+      "message": "取得Sn清单成功!",
+      "status": "200",
+      "machineSn": "MTF_01_01_00",
+      "rootLot": "GZKG2019011001",
+      "traySn": "GZKG201901PBKA2503538",
+      "taskNo": "DRZRD9B5182",
+      "partNo": "02352FQG",
+      "partRev": "MES01",
+      "wipCount": "6"
+    }
+  ]
+}
